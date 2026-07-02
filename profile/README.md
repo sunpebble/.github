@@ -12,4 +12,4 @@ A two-person indie studio — engineering by Kun, design & product by Shuyuan. E
 |---|---|---|
 | **Dayroll** | The journal you never have to open — one tap, one line a day. | In development |
 
-🌐 [sunpebble.github.io](https://sunpebble.github.io)
+🌐 [sunpebblelabs.com](https://sunpebblelabs.com)

@@ -19,7 +19,7 @@
 - GitHub org：`sunpebble`；repo 名 = app 名小写（如 `dayroll`）
 - Bundle id：`com.sunpebble.<app>`；App Group：`group.com.sunpebble.<app>`；内购：`com.sunpebble.<app>.lifetime`
 - App 名：一个词，易读易拼（Dayroll ✓）
-- 域名：`sunpebble.app`（待注册）；官网暂用 sunpebble.github.io
+- 域名：`sunpebblelabs.com`（Cloudflare 托管，官网 = GitHub Pages 自定义域名）
 
 ## 视觉
 
