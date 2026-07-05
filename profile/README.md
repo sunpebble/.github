@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sunpebble/.github/main/assets/logo-2026.svg" width="88" alt="Sunpebble logo">
+<img src="https://raw.githubusercontent.com/sunpebble/.github/main/assets/logo.svg" width="88" alt="Sunpebble logo">
 
 # Sunpebble
 
