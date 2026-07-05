@@ -1,6 +1,6 @@
 # sunpebble/.github
 
-Org-level defaults and brand home for [Sunpebble](https://sunpebblelabs.com) — small, polished apps. Pay once, no subscription.
+Org-level defaults and brand home for [Sunpebble](https://sunpebblelabs.com) — small, polished apps.
 
 - [`profile/README.md`](profile/README.md) — the org profile shown at [github.com/sunpebble](https://github.com/sunpebble)
 - [`BRAND.md`](BRAND.md) — brand guidelines (naming, colors, typography)
