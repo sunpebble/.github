@@ -13,5 +13,6 @@ A two-person indie studio — engineering by Kun, design & product by Shuyuan. E
 | **Sleeptab** | Know how much sleep you owe yourself. Sleep debt from Apple Health. | In development |
 | **Steady** | Track blood pressure, glucose, meds, and symptoms. Built for doctor visits. | In development |
 | **Fresh Pantry** | Your kitchen, remembered. Track what's in the fridge and cook it before it expires. | In development |
+| **Quarry** | Professional database manager for macOS — native, fast, and encrypted-database ready. | In development |
 
 🌐 [sunpebblelabs.com](https://sunpebblelabs.com)

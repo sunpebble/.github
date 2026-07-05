@@ -15,3 +15,4 @@ Org-level defaults and brand home for [Sunpebble](https://sunpebblelabs.com) —
 | **Sleeptab** | Sleep debt tracker powered by Apple Health. | `sunpebble/sleeptab` |
 | **Steady** | Health logs for doctor visits. | `sunpebble/steady` |
 | **Fresh Pantry** | Your kitchen, remembered. | `sunpebble/fresh-pantry` |
+| **Quarry** | Professional database manager for macOS. | `sunpebble/quarry` |
