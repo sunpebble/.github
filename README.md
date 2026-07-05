@@ -13,3 +13,5 @@ Org-level defaults and brand home for [Sunpebble](https://sunpebblelabs.com) —
 | **Dayroll** | One tap, one line a day — journal from a widget. | `sunpebble/dayroll` |
 | **Simmer** | Kitchen timers in your Dynamic Island. | `sunpebble/simmer` |
 | **Sleeptab** | Sleep debt tracker powered by Apple Health. | `sunpebble/sleeptab` |
+| **Steady** | Health logs for doctor visits. | `sunpebble/steady` |
+| **Fresh Pantry** | Your kitchen, remembered. | `sunpebble/fresh-pantry` |

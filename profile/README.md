@@ -2,7 +2,7 @@
 
 # Sunpebble
 
-**Small, polished apps.**
+**Small, polished apps. Pay once, no subscription.**
 
 A two-person indie studio — engineering by Kun, design & product by Shuyuan. Every app is a pebble: small, smooth, and made to last.
 
@@ -11,5 +11,7 @@ A two-person indie studio — engineering by Kun, design & product by Shuyuan. E
 | **Dayroll** | The journal you never have to open — one tap, one line a day. | In development |
 | **Simmer** | Kitchen timers that live in your Dynamic Island. Every pot, one glance. | In development |
 | **Sleeptab** | Know how much sleep you owe yourself. Sleep debt from Apple Health. | In development |
+| **Steady** | Track blood pressure, glucose, meds, and symptoms. Built for doctor visits. | In development |
+| **Fresh Pantry** | Your kitchen, remembered. Track what's in the fridge and cook it before it expires. | In development |
 
 🌐 [sunpebblelabs.com](https://sunpebblelabs.com)
