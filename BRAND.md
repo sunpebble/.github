@@ -21,6 +21,7 @@
 - App 名：一个词，易读易拼（Dayroll ✓）
 - 域名：`sunpebblelabs.com`（Cloudflare 托管，官网 = GitHub Pages 自定义域名）
 - 支持邮箱：`support@sunpebblelabs.com`（Cloudflare Email Routing 转发到 Gmail）
+- Telegram：[@sunpebble](https://t.me/sunpebble)
 
 ## 视觉
 
