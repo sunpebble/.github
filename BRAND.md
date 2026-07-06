@@ -3,11 +3,11 @@
 ## 名字
 
 **Sunpebble** = 孙（Sun，孙淑媛·设计与产品）+ 石（pebble，石坤·工程）。
-意象：阳光下一颗颗打磨光滑的小卵石——每颗是一个小而美的买断制 app。
+意象：阳光下一颗颗打磨光滑的小卵石——每颗是一个小而美的 app。
 
 ## 一句话
 
-> Small, polished apps. Pay once, no subscription.
+> Small, polished apps.
 
 ## 分工
 
@@ -31,7 +31,7 @@
 
 ## 语气
 
-克制、温暖、不吹嘘。少用感叹号。核心承诺永远显式出现：**pay once**、**no subscription**、**private by design**。
+克制、温暖、不吹嘘。少用感叹号。核心承诺永远显式出现：**private by design**——无账号、无广告、无追踪。
 
 ## 明确不做（现阶段）
 

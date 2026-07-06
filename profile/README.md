@@ -2,7 +2,7 @@
 
 # Sunpebble
 
-**Small, polished apps. Pay once, no subscription.**
+**Small, polished apps.**
 
 A two-person indie studio — engineering by Kun, design & product by Shuyuan. Every app is a pebble: small, smooth, and made to last.
 
