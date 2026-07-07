@@ -16,3 +16,4 @@ Org-level defaults and brand home for [Sunpebble](https://sunpebblelabs.com) —
 | **Steady** | Health logs for doctor visits. | `sunpebble/steady` |
 | **Fresh Pantry** | Your kitchen, remembered. | `sunpebble/fresh-pantry` |
 | **Quarry** | Professional database manager for macOS. | `sunpebble/quarry` |
+| **Cineslate** | Film & TV companion — discover, lists on device, optional Plex playback. | `sunpebble/cineslate` |

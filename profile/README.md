@@ -14,5 +14,6 @@ A two-person indie studio — engineering by Kun, design & product by Shuyuan. E
 | **Steady** | Track blood pressure, glucose, meds, and symptoms. Built for doctor visits. | In development |
 | **Fresh Pantry** | Your kitchen, remembered. Track what's in the fridge and cook it before it expires. | In development |
 | **Quarry** | Professional database manager for macOS — native, fast, and encrypted-database ready. | In development |
+| **Cineslate** | Your cinema slate, beautifully clear — discover film & TV, keep your lists, play from Plex. | In development |
 
 🌐 [sunpebblelabs.com](https://sunpebblelabs.com) · ✈️ [Telegram](https://t.me/sunpebble)
